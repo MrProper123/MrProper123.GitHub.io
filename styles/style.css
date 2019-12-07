@@ -1,0 +1,32 @@
+.mainMenu{
+    height: 200px;
+    background-color: chartreuse;
+}
+.mainBlock{
+    display: flex;
+}
+.leftPanel {
+    height: 800px;
+    width: 20% ;
+    background-color: coral;
+}
+.mainPanel{
+    height: 800px;
+    width: 60%;
+    background-color:darkcyan;
+}
+.rightPanel{
+    height: 800px;
+    width: 20%;
+    background-color:darkkhaki;
+}
+
+.mainPanel img{
+    max-width: 50%;
+    max-height: 50%;
+} 
+.mainMenu h1{
+    color: black;
+    font-size: 45px;
+    text-align: center;
+}
